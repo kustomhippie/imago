@@ -7,7 +7,7 @@ resources:
 
 images:
   - name: imago-updater
-    newName: docker.io/philpep/imago
+    newName: philpep/imago
     newTag: "latest"
 
 ...
