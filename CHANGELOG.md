@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/kustomhippie/imago/compare/v1.0.0...v2.0.0) (2023-07-17)
+
+
+### Features
+
+* **major:** update actionhippie/kustomize action to v2 ([76841df](https://github.com/kustomhippie/imago/commit/76841dfec47ead339dfee82668d7eb78fc2af394))
+
 ## 1.0.0 (2023-06-05)
 
 
